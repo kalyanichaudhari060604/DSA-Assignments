@@ -4,6 +4,7 @@ import java.util.Scanner;
 class Assignment {
     public int index;
     public long mobile;
+    
 }
 
 class Hashing {
